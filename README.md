@@ -25,7 +25,10 @@ Steps to use:
 ![image](https://user-images.githubusercontent.com/75438874/218331650-dd2a7016-a47a-40ae-ba81-a7af0f7f80a4.png)
 
 
+#Dependency Used 
 
+1-http
+2-lottie
 
 A few resources to get you started if this is your first Flutter project:
 
